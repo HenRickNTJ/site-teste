@@ -35,5 +35,4 @@ function calculaTempo(tempoObjetivo) {
     if (tempoFinal > 0){
  return dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos";
 }else{
-    return "Prazo Encerrado";
-}
+    return "Prazo Encerrado";}
